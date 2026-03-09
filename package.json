@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bot-hosting",
+  "version": "1.0.0",
+  "description": "Telegram multi bot hosting system",
+  "type": "module",
+  "dependencies": {}
+}
